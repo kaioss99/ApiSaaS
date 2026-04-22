@@ -1,0 +1,6 @@
+@ApiSaas_HostAddress = http://localhost:5171
+
+GET {{ApiSaas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
